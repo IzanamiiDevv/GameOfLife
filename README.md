@@ -33,7 +33,7 @@ Frequently occurring examples (in that they emerge frequently from a random star
         </td>
         <td>Blinker<br/>(period 2)</td>
         <td>
-            <img src="./assets/StillLifes/Game_of_life_block_with_border.svg">
+            <img src="./assets/Oscillators/Game_of_life_blinker.gif">
         </td>
     </tr>
     <tr>
@@ -43,7 +43,7 @@ Frequently occurring examples (in that they emerge frequently from a random star
         </td>
         <td>Toad<br/>(period 2)</td>
         <td>
-            <img src="./assets/StillLifes/Game_of_life_beehive.svg">
+            <img src="./assets/Oscillators/Game_of_life_toad.gif">
         </td>
     </tr>
     <tr>
@@ -53,7 +53,7 @@ Frequently occurring examples (in that they emerge frequently from a random star
         </td>
         <td>Beacon<br/>(period 2)</td>
         <td>
-            <img src="./assets/StillLifes/Game_of_life_beehive.svg">
+            <img src="./assets/Oscillators/Game_of_life_beacon.gif">
         </td>
     </tr>
     <tr>
@@ -63,7 +63,7 @@ Frequently occurring examples (in that they emerge frequently from a random star
         </td>
         <td>Pulsar<br/>(period 3)</td>
         <td>
-            <img src="./assets/StillLifes/Game_of_life_beehive.svg">
+            <img src="./assets/Oscillators/Game_of_life_pulsar.gif">
         </td>
     </tr>
     <tr>
@@ -73,7 +73,7 @@ Frequently occurring examples (in that they emerge frequently from a random star
         </td>
         <td>Pentadecathlon<br/>(period 15)</td>
         <td>
-            <img src="./assets/StillLifes/Game_of_life_beehive.svg">
+            <img src="./assets/Oscillators/I-Column.gif">
         </td>
     </tr>
 </table>
