@@ -16,7 +16,28 @@ The initial pattern constitutes the seed of the system. The first generation is 
 ## Examples of patterns
 Many different types of patterns occur in the Game of Life, which are classified according to their behaviour. Common pattern types include: still lifes, which do not change from one generation to the next; oscillators, which return to their initial state after a finite number of generations; and spaceships, which translate themselves across the grid.
 
-The earliest interesting patterns in the Game of Life were discovered without the use of computers. The simplest still lifes and oscillators were discovered while tracking the fates of various small starting configurations using graph paper, blackboards, and physical game boards, such as those used in Go. During this early research, Conway discovered that the R-pentomino failed to stabilize in a small number of generations. In fact, it takes 1103 generations to stabilize, by which time it has a population of 116 and has generated six escaping gliders;[22] these were the first spaceships ever discovered.[23]
+The earliest interesting patterns in the Game of Life were discovered without the use of computers. The simplest still lifes and oscillators were discovered while tracking the fates of various small starting configurations using graph paper, blackboards, and physical game boards, such as those used in Go. During this early research, Conway discovered that the R-pentomino failed to stabilize in a small number of generations. In fact, it takes 1103 generations to stabilize, by which time it has a population of 116 and has generated six escaping gliders; these were the first spaceships ever discovered.
 
-Frequently occurring[24][25] examples (in that they emerge frequently from a random starting configuration of cells) of the three aforementioned pattern types are shown below, with live cells shown in black and dead cells in white. Period refers to the number of ticks a pattern must iterate through before returning to its initial configuration.
+Frequently occurring examples (in that they emerge frequently from a random starting configuration of cells) of the three aforementioned pattern types are shown below, with live cells shown in black and dead cells in white. Period refers to the number of ticks a pattern must iterate through before returning to its initial configuration.
 
+<table border="2">
+    <tr>
+        <th colspan="2">Still Lifes</th>
+    </tr>
+    <tr>
+        <td>Block</td>
+        <td><img src="https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life#/media/File:Game_of_life_block_with_border.svg"></td>
+    </tr>
+    <tr>
+        <td>Bee Hive</td>
+    </tr>
+    <tr>
+        <td>Loaf</td>
+    </tr>
+    <tr>
+        <td>Boat</td>
+    </tr>
+    <tr>
+        <td>Tub</td>
+    </tr>
+</table>
