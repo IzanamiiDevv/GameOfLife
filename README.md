@@ -26,18 +26,32 @@ Frequently occurring examples (in that they emerge frequently from a random star
     </tr>
     <tr>
         <td>Block</td>
-        <td><img src="https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life#/media/File:Game_of_life_block_with_border.svg"></td>
+        <td>
+            <img src="./assets/StillLifes/Game_of_life_block_with_border.svg">
+        </td>
     </tr>
     <tr>
         <td>Bee Hive</td>
+        <td>
+            <img src="./assets/StillLifes/Game_of_life_beehive.svg">
+        </td>
     </tr>
     <tr>
         <td>Loaf</td>
+        <td>
+            <img src="./assets/StillLifes/Game_of_life_loaf.svg">
+        </td>
     </tr>
     <tr>
         <td>Boat</td>
+        <td>
+            <img src="./assets/StillLifes/Game_of_life_boat.svg">
+        </td>
     </tr>
     <tr>
         <td>Tub</td>
+        <td>
+            <img src="./assets/StillLifes/Game_of_life_flower.svg">
+        </td>
     </tr>
 </table>
