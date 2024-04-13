@@ -20,7 +20,7 @@ The earliest interesting patterns in the Game of Life were discovered without th
 
 Frequently occurring examples (in that they emerge frequently from a random starting configuration of cells) of the three aforementioned pattern types are shown below, with live cells shown in black and dead cells in white. Period refers to the number of ticks a pattern must iterate through before returning to its initial configuration.
 
-<table border="2">
+<table border="1">
     <tr>
         <th colspan="2">Still Lifes</th>
     </tr>
