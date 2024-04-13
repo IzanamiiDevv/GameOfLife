@@ -61,11 +61,19 @@ Frequently occurring examples (in that they emerge frequently from a random star
         <td>
             <img src="./assets/StillLifes/Game_of_life_boat.svg">
         </td>
+        <td>Pulsar<br/>(period 3)</td>
+        <td>
+            <img src="./assets/StillLifes/Game_of_life_beehive.svg">
+        </td>
     </tr>
     <tr>
         <td>Tub</td>
         <td>
             <img src="./assets/StillLifes/Game_of_life_flower.svg">
+        </td>
+        <td>Pentadecathlon<br/>(period 15)</td>
+        <td>
+            <img src="./assets/StillLifes/Game_of_life_beehive.svg">
         </td>
     </tr>
 </table>
