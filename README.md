@@ -79,3 +79,4 @@ Frequently occurring examples (in that they emerge frequently from a random star
 </table>
 
 for more info click <a href="https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life">here</a>
+https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=A+meta-analysis+of+the+impact+of+technology+on+learning+effectiveness+of+elementary+students&btnG=
