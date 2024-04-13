@@ -23,9 +23,15 @@ Frequently occurring examples (in that they emerge frequently from a random star
 <table border="1">
     <tr>
         <th colspan="2">Still Lifes</th>
+        <th colspan="2">Oscillators</th>
+        <th colspan="2">Spaceships</th>
     </tr>
     <tr>
         <td>Block</td>
+        <td>
+            <img src="./assets/StillLifes/Game_of_life_block_with_border.svg">
+        </td>
+        <td>Blinker<br/>(period 2)</td>
         <td>
             <img src="./assets/StillLifes/Game_of_life_block_with_border.svg">
         </td>
@@ -35,11 +41,19 @@ Frequently occurring examples (in that they emerge frequently from a random star
         <td>
             <img src="./assets/StillLifes/Game_of_life_beehive.svg">
         </td>
+        <td>Toad<br/>(period 2)</td>
+        <td>
+            <img src="./assets/StillLifes/Game_of_life_beehive.svg">
+        </td>
     </tr>
     <tr>
         <td>Loaf</td>
         <td>
             <img src="./assets/StillLifes/Game_of_life_loaf.svg">
+        </td>
+        <td>Beacon<br/>(period 2)</td>
+        <td>
+            <img src="./assets/StillLifes/Game_of_life_beehive.svg">
         </td>
     </tr>
     <tr>
