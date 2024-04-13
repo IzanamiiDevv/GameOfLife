@@ -281,7 +281,7 @@ var GameOfLife = (function() {
     canvas         : c,
     
     unitSize       : 2,
-    columns        : window.innerWidth / 2.5,
+    columns        : 360,
     lines          : 240,
     drawRate       : 1000/16,
     gridSize       : 4,
